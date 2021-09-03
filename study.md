@@ -14,7 +14,7 @@
 
 정방행렬(Square Matrix)인 선형변환 A에 의한 변환 결과가 자기 자신의 상수배가 되는 0이 아닌 벡터를 "고유벡터라고 하며, 이 상수배의 값을 "고유값"이라고 함.   
 
-수식으로 표현하면, n X n 정방행렬 A에 대해 ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20Av%20%3D%5Clambda%20v)를 만족하는 0이 아닌 열벡터 ![](https://latex.codecogs.com/gif.latex?%5Clarge%20v)를 고유벡터, 상수 ![](https://latex.codecogs.com/gif.latex?%5Clarge%20%5Clambda)를 고유값이라고 정의함.   
+수식으로 표현하면, n X n 정방행렬 A에 대해 ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20Av%20%3D%5Clambda%20v) 를 만족하는 0이 아닌 열벡터 ![](https://latex.codecogs.com/gif.latex?%5Clarge%20v)를 고유벡터, 상수 ![](https://latex.codecogs.com/gif.latex?%5Clarge%20%5Clambda)를 고유값이라고 정의함.   
 
 ![enter image description here](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https://blog.kakaocdn.net/dn/JSW6W/btqEa03CDsu/yhMk1iWVdloNTcXG2qmWEK/img.png)
 
@@ -26,8 +26,8 @@
 ㄴ 빨간색 벡터 : 벡터의 방향과 크기가 모두 변함. 고유벡터가 아님.   
 ㄴ 파란색 벡터와 분홍색 벡터: 방향은 변하지 않고 크기만 변함. 고유벡터임.   
 
-고유값과 고유벡터를 찾아보자. $$ (A - \lambda I)v = 0 $$   
-여기서 $I$는 단위행렬(Identity Matrix)이고 $A - \lambda I$ 의 역행렬이 존재한다면 $v$가 0이 되어버림. 0이 아닌 벡터를 찾으려고 하기 때문에  $A - \lambda I$ 의 역행렬이 존재하지 않아야함. 즉,  $$ det(A - \lambda I) = 0 $$    
+고유값과 고유벡터를 찾아보자. ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20%28A%20-%20%5Clambda%20I%29v%20%3D%200) 
+여기서 ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20I) 는 단위행렬(Identity Matrix)이고 ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20A%20-%20%5Clambda%20I) 의 역행렬이 존재한다면 ![](https://latex.codecogs.com/gif.latex?%5Clarge%20v)가 0이 되어버림. 0이 아닌 벡터를 찾으려고 하기 때문에  ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20A%20-%20%5Clambda%20I) 의 역행렬이 존재하지 않아야함. 즉, ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20det%28A%20-%20%5Clambda%20I%29%20%3D%200)   
 
 위의 식을 특성방정식(Characteristic Equation)이라고 함. 특성방정식에서 $\lambda$ 의 값을 계산할 수 있고 이를 통해 고유벡터를 구함   
 
