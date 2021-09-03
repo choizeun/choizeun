@@ -16,10 +16,9 @@
 
 수식으로 표현하면, n X n 정방행렬 A에 대해 
 
-![](https://latex.codecogs.com/gif.latex?%5CLARGE%20Av%20%3D%5Clambda%20v){: .align-center}
--
+![](https://latex.codecogs.com/gif.latex?%5CLARGE%20Av%20%3D%5Clambda%20v)  
 
-$$Av =\lambda v $$ 를 만족하는 0이 아닌 열벡터 $v$를 고유벡터, 상수 $\lambda$를 고유값이라고 정의함.   
+를 만족하는 0이 아닌 열벡터 ![](https://latex.codecogs.com/gif.latex?v)를 고유벡터, 상수 ![](https://latex.codecogs.com/gif.latex?%5Clambda)를 고유값이라고 정의함.   
 
 ![enter image description here](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https://blog.kakaocdn.net/dn/JSW6W/btqEa03CDsu/yhMk1iWVdloNTcXG2qmWEK/img.png)
 
