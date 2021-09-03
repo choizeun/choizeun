@@ -163,11 +163,12 @@ rank는 얻을 수 있는 정보양과 관련이 있음. rank가 작으면 데�
 
 ## Reference
 >  
-[고유벡터와 고유값](https://junklee.tistory.com/87)   
-[특성방정식](https://junklee.tistory.com/89?category=937502)   
-[특이값 분해](https://losskatsu.github.io/linear-algebra/svd/#)   
-[특이값 분해](https://bkshin.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-20-%ED%8A%B9%EC%9D%B4%EA%B0%92-%EB%B6%84%ED%95%B4Singular-Value-Decomposition)
-[벡터 직교성의 공학적 의미](https://satlab.tistory.com/37)   
-[딥러닝에서 선형변환](https://jxnjxn.tistory.com/47)   
-[행렬에서 Rank란?](https://blog.naver.com/sw4r/221416614473)   
-[공돌이의 수학노트 정리](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)   
+* [고유벡터와 고유값](https://junklee.tistory.com/87)   
+* [특성방정식](https://junklee.tistory.com/89?category=937502)   
+* [특이값 분해](https://losskatsu.github.io/linear-algebra/svd/#)   
+* [특이값 분해](https://bkshin.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-20-%ED%8A%B9%EC%9D%B4%EA%B0%92-%EB%B6%84%ED%95%B4Singular-Value-Decomposition)
+* [벡터 직교성의 공학적 의미](https://satlab.tistory.com/37)   
+* [딥러닝에서 선형변환](https://jxnjxn.tistory.com/47)   
+* [행렬에서 Rank란?](https://blog.naver.com/sw4r/221416614473)   
+* [공돌이의 수학노트 정리](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)   
+* [numpy.linalg.eig](https://numpy.org/doc/stable/reference/generated/numpy.linalg.eig.html)
