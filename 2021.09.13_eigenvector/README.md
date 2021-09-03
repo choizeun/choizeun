@@ -1,3 +1,6 @@
+# EigenVector & EigenValue
+     
+
 ## Intro
 - 고유값(Eigenvalue)과 고유벡터(Eigenvector)는 선형대수(Linear Algebra)에서 가장 중요한 이론 중 하나이며, 많은 머신러닝 이론에서 사용됨   
 - 역사적으로 이차형식(Quadratic Forms) 및 미분방정식(Differential Equations) 이론으로 부터 발전      
