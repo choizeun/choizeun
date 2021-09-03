@@ -172,3 +172,4 @@ rank는 얻을 수 있는 정보양과 관련이 있음. rank가 작으면 데�
 * [행렬에서 Rank란?](https://blog.naver.com/sw4r/221416614473)   
 * [공돌이의 수학노트 정리](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)   
 * [numpy.linalg.eig](https://numpy.org/doc/stable/reference/generated/numpy.linalg.eig.html)
+* [scipy.linalg.eig](https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.eig.html)
