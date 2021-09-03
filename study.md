@@ -16,7 +16,7 @@
 
 수식으로 표현하면, n X n 정방행렬 A에 대해 
 
-<center>![enter image description here](https://latex.codecogs.com/gif.latex?%5CLARGE%20Av%20%3D%5Clambda%20v)</center> 
+<center> ![enter image description here](https://latex.codecogs.com/gif.latex?%5CLARGE%20Av%20%3D%5Clambda%20v) </center> 
 
 
 
