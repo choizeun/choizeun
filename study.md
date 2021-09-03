@@ -27,7 +27,7 @@
 ㄴ 파란색 벡터와 분홍색 벡터: 방향은 변하지 않고 크기만 변함. 고유벡터임.   
 
 고유값과 고유벡터를 찾아보자. ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20%28A%20-%20%5Clambda%20I%29v%20%3D%200) 
-여기서 ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20I) 는 단위행렬(Identity Matrix)이고 ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20A%20-%20%5Clambda%20I) 의 역행렬이 존재한다면 ![](https://latex.codecogs.com/gif.latex?%5Clarge%20v)가 0이 되어버림. 0이 아닌 벡터를 찾으려고 하기 때문에  ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20A%20-%20%5Clambda%20I) 의 역행렬이 존재하지 않아야함. 즉, ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20det%28A%20-%20%5Clambda%20I%29%20%3D%200)   
+여기서 ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20I) 는 단위행렬(Identity Matrix)이고 ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20A%20-%20%5Clambda%20I) 의 역행렬이 존재한다면 ![](https://latex.codecogs.com/gif.latex?%5Clarge%20v)가 0이 되어버림. 0이 아닌 벡터를 찾으려고 하기 때문에  ![](https://latex.codecogs.com/gif.latex?%5CLARGE%20A%20-%20%5Clambda%20I) 의 역행렬이 존재하지 않아야함. 즉, ![](https://latex.codecogs.com/gif.latex?%5Clarge%20det%28A%20-%20%5Clambda%20I%29%20%3D%200)   
 
 위의 식을 특성방정식(Characteristic Equation)이라고 함. 특성방정식에서 $\lambda$ 의 값을 계산할 수 있고 이를 통해 고유벡터를 구함   
 
