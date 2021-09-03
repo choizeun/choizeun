@@ -158,8 +158,8 @@ rank는 얻을 수 있는 정보양과 관련이 있음. rank가 작으면 데�
 
     
 
-
-> Reference   
+## Reference
+>  
 [고유벡터와 고유값](https://junklee.tistory.com/87)   
 [특성방정식](https://junklee.tistory.com/89?category=937502)   
 [특이값 분해](https://losskatsu.github.io/linear-algebra/svd/#)   
